@@ -1,0 +1,15 @@
+Apps:
+  prod:
+    CP:
+      URL: https://www.nba.com/warriors
+    DP1:
+      URL: https://www.nba.com/sixers/
+    DP2:
+      URL: https://www.nba.com/bulls/
+  qa:
+    CP:
+      URL: https://www.nba.com/warriors
+    DP1:
+      URL: https://www.nba.com/sixers/
+    DP2:
+      URL: https://www.nba.com/bulls/

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Veeva Automation Assignment Suite">
+    <test name="Veeva Automation Assignment Test">
+        <parameter name="cucumber.filter.tags" value="@Regression"/>
+        <classes>
+            <class name = "Runner"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
