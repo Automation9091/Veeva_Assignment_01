@@ -26,4 +26,10 @@ public class landingPage extends basePage {
 
     @FindBy(xpath = "//div[text()='x']")
     private WebElement Btn_Close;
+
+    @FindBy(xpath = "//li[@class='menu-item']//span[text()='...']")
+    private WebElement Btn_ThreeDots;
+
+    @FindBy(xpath = "(//a[@href='/warriors/news'])[1]")
+    private WebElement Lnk_NewsAndFeatures;
 }

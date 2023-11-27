@@ -2,6 +2,7 @@ package commonLibrary;
 
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -24,7 +25,8 @@ public class browser {
                 driver = new EdgeDriver();
                 break;
         }
-        driver.manage().window().maximize();
+        //driver.manage().window().maximize();
+        driver.manage().window().setSize(new Dimension(1200, 900));
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(60));
         return driver;
     }

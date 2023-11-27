@@ -2155,3 +2155,114 @@
 2023-11-26 19:45:30ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:130) - landing loaded!
 2023-11-26 19:46:01ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:65) - Child Window Handle: BF2A0D2E15347115CBB2412C8BD9467E
 2023-11-26 19:46:01ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:130) - shopMens loaded!
+2023-11-27 12:12:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:53) - ***** Executing browserSetup method *****
+2023-11-27 12:12:45ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:55) - Browser launched
+2023-11-27 12:12:49ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:124) - https://www.nba.com/warriors opened!
+2023-11-27 12:12:49ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:130) - landing loaded!
+2023-11-27 12:17:40ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:53) - ***** Executing browserSetup method *****
+2023-11-27 12:17:42ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:55) - Browser launched
+2023-11-27 12:17:45ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:124) - https://www.nba.com/warriors opened!
+2023-11-27 12:17:45ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:130) - landing loaded!
+2023-11-27 12:22:11ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:53) - ***** Executing browserSetup method *****
+2023-11-27 12:22:14ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:55) - Browser launched
+2023-11-27 12:22:15ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:124) - https://www.nba.com/warriors opened!
+2023-11-27 12:22:16ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:130) - landing loaded!
+2023-11-27 12:26:53ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:53) - ***** Executing browserSetup method *****
+2023-11-27 12:26:55ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:55) - Browser launched
+2023-11-27 12:27:08ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:124) - https://www.nba.com/warriors opened!
+2023-11-27 12:27:08ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:130) - landing loaded!
+2023-11-27 12:27:50ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:53) - ***** Executing browserSetup method *****
+2023-11-27 12:27:52ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:55) - Browser launched
+2023-11-27 12:28:43ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:124) - https://www.nba.com/warriors opened!
+2023-11-27 12:28:43ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:130) - landing loaded!
+2023-11-27 12:29:38ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:53) - ***** Executing browserSetup method *****
+2023-11-27 12:29:40ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:55) - Browser launched
+2023-11-27 12:29:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:124) - https://www.nba.com/warriors opened!
+2023-11-27 12:29:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:130) - landing loaded!
+2023-11-27 13:01:04ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:01:07ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:01:12ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:01:12ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:02:00ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:02:10ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:02:13ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:02:15ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:02:15ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:03:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='x']"}
+  (Session info: chrome=119.0.6045.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3aacdf04d16579dc24f431f25c88f54, findElement {using=xpath, value=//div[text()='x']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\jeetu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60111}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60111/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e3aacdf04d16579dc24f431f25c88f54
+2023-11-27 13:03:42ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:03:56ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:04:27ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:75) - Total number of video feed: 23
+2023-11-27 13:05:25ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:86) - Total number of video feed for more than 3 days: 25
+2023-11-27 13:07:07ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:07:09ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:07:13ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:07:13ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:07:29ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:07:29ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:07:29ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:75) - Total number of video feed: 23
+2023-11-27 13:07:30ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:86) - Total number of video feed for more than 3 days: 25
+2023-11-27 13:09:42ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:09:44ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:09:47ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:09:47ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:10:04ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:10:04ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:10:04ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:76) - Total number of video feed: 23
+2023-11-27 13:10:24ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:89) - Total number of video feed for more than 3 days: 575
+2023-11-27 13:20:39ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:20:44ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:20:47ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:20:47ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:22:57ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - Error Message: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='x']' (tried for 60 second(s) with 5000 milliseconds interval)
+2023-11-27 13:23:30ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:23:38ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:23:41ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:76) - Total number of video feed: 23
+2023-11-27 13:24:24ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:96) - Total number of video feed for more than 3 days: 0
+2023-11-27 13:27:00ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:27:05ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:27:07ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:27:07ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:27:15ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - Error Message: stale element reference: stale element not found
+  (Session info: chrome=119.0.6045.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57dabfe08fb3b8dd0364526139bc4407, isElementDisplayed {id=F2C1001CB8C097E4FE92A8118123F298_element_4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\jeetu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58477/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (57dabfe08fb3b8dd0364526139bc4407)] -> xpath: //div[text()='x']]
+Session ID: 57dabfe08fb3b8dd0364526139bc4407
+2023-11-27 13:27:27ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:27:27ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:27:27ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:76) - Total number of video feed: 23
+2023-11-27 13:29:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:29:35ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:29:39ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:29:39ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:29:57ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:29:57ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:29:58ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:76) - Total number of video feed: 23
+2023-11-27 13:41:42ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:41:46ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:41:49ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:41:49ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:42:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:42:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:43:41ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:76) - Total number of video feed: 0
+2023-11-27 13:43:41ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:109) - Total number of video feed for more than 3 days: 0
+2023-11-27 13:44:58ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:45:02ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:45:14ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:45:14ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:45:49ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:45:50ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
+2023-11-27 13:45:50ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:76) - Total number of video feed: 23
+2023-11-27 13:48:08ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:109) - Total number of video feed for more than 3 days: 3

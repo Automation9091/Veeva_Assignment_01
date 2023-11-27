@@ -2,6 +2,7 @@ package stepDefinitions;
 
 import applications.cp.homePage;
 import applications.cp.landingPage;
+import applications.cp.newsPage;
 import applications.cp.shopMensPage;
 import com.esotericsoftware.yamlbeans.YamlException;
 import commonLibrary.basePage;
@@ -229,6 +230,9 @@ public class commonSteps extends browser {
                         break;
                     case "shopmens":
                         page = new shopMensPage(browser.driver);
+                        break;
+                    case "news":
+                        page = new newsPage(browser.driver);
                         break;
                 }
                 break;
