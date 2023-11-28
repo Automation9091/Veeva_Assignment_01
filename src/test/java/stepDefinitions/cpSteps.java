@@ -74,15 +74,18 @@ public class cpSteps extends browser {
         WebElement vidSection = cs.getElement("Section_Videos");
         List<WebElement> lstVideos = vidSection.findElements(By.xpath("//h3[text()='VIDEOS']//parent::div//following-sibling::div//time[contains(@aria-label,'ago')]/span"));
         logger.info("Total number of video feed: " + lstVideos.size());
-        String dayNum;
-        Integer iVal;
+        String dayNum = null;
+        Integer iVal = null;
 
         for (int iStart=0; iStart < lstVideos.size(); iStart++){
-            dayNum = lstVideos.get(iStart).getText().replace("d","");
-            iVal = Integer.parseInt(dayNum);
-            if (iVal > 3){
-                cntr = cntr + 1;
+            if (lstVideos.get(iStart).getText().contains("d")){
+                dayNum = lstVideos.get(iStart).getText().replace("d","");
+                iVal = Integer.parseInt(dayNum);
+                if (iVal > 3){
+                    cntr = cntr + 1;
+                }
             }
+
         }
         logger.info("Total number of video feed for more than 3 days: " + cntr);
     }
