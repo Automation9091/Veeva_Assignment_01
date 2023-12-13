@@ -2,6 +2,7 @@ package stepDefinitions;
 
 import applications.cp.shopMensPage;
 import commonLibrary.browser;
+import commonLibrary.common;
 import io.cucumber.java.en.Then;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -70,8 +71,9 @@ public class cpSteps extends browser {
     public void getVideoSectionDetails(){
         int cntr = 0;
         commonSteps cs = new commonSteps();
+        common cm = new common();
         cs.setPage("news");
-        WebElement vidSection = cs.getElement("Section_Videos");
+        WebElement vidSection = cm.getElement("Section_Videos");
         List<WebElement> lstVideos = vidSection.findElements(By.xpath("//h3[text()='VIDEOS']//parent::div//following-sibling::div//time[contains(@aria-label,'ago')]/span"));
         logger.info("Total number of video feed: " + lstVideos.size());
         String dayNum = null;

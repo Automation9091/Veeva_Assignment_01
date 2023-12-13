@@ -2266,3 +2266,112 @@ Session ID: 57dabfe08fb3b8dd0364526139bc4407
 2023-11-27 13:45:50ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - news loaded!
 2023-11-27 13:45:50ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:76) - Total number of video feed: 23
 2023-11-27 13:48:08ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:109) - Total number of video feed for more than 3 days: 3
+2023-11-27 13:52:18ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-11-27 13:52:22ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-11-27 13:52:27ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-11-27 13:52:27ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-11-27 13:52:36ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - Error Message: stale element reference: stale element not found
+  (Session info: chrome=119.0.6045.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [34cc38ed98ae8a2e63b18350c63410aa, isElementDisplayed {id=DF3A1101BD5BB97E59D7F318F477411C_element_4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\jeetu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57705}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57705/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (34cc38ed98ae8a2e63b18350c63410aa)] -> xpath: //div[text()='x']]
+Session ID: 34cc38ed98ae8a2e63b18350c63410aa
+2023-11-27 13:53:04ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:66) - Child Window Handle: D36BB6B4EAF6EA6A6FC330D2C0C80E62
+2023-11-27 13:53:04ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - shopMens loaded!
+2023-12-09 00:22:59ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:54) - ***** Executing browserSetup method *****
+2023-12-09 00:23:06ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:56) - Browser launched
+2023-12-09 00:23:27ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:125) - https://www.nba.com/warriors opened!
+2023-12-09 00:23:27ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - landing loaded!
+2023-12-09 00:23:54ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:66) - Child Window Handle: 9F50392A62AF5C44E4E3926935C0097C
+2023-12-09 00:23:54ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:131) - shopMens loaded!
+2023-12-11 02:48:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 02:48:45ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 02:48:50ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:117) - https://www.nba.com/warriors opened!
+2023-12-11 02:48:50ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:123) - landing loaded!
+2023-12-11 02:48:50ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null
+2023-12-11 02:48:50ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null
+2023-12-11 02:49:29ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 02:49:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 02:49:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:117) - https://www.nba.com/warriors opened!
+2023-12-11 02:49:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:123) - landing loaded!
+2023-12-11 02:49:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null
+2023-12-11 02:49:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null
+2023-12-11 02:57:25ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 02:57:27ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 02:57:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:117) - https://www.nba.com/warriors opened!
+2023-12-11 02:57:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:123) - landing loaded!
+2023-12-11 02:57:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null
+2023-12-11 02:57:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null
+2023-12-11 02:57:57ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 02:57:59ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 02:58:02ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:117) - https://www.nba.com/warriors opened!
+2023-12-11 02:58:02ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:123) - landing loaded!
+2023-12-11 02:59:47ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null
+2023-12-11 02:59:47ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null
+2023-12-11 02:59:59ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 03:00:02ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 03:00:29ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:117) - https://www.nba.com/warriors opened!
+2023-12-11 03:00:29ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:123) - landing loaded!
+2023-12-11 03:02:58ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='x']' (tried for 60 second(s) with 5000 milliseconds interval)
+2023-12-11 03:03:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:58) - Child Window Handle: 51A053BB544DFF82839D52771E28D050
+2023-12-11 03:03:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:123) - shopMens loaded!
+2023-12-11 03:12:19ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 03:12:22ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 03:12:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:92) - https://www.nba.com/warriors opened!
+2023-12-11 03:12:31ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - landing loaded!
+2023-12-11 03:13:18ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:58) - Child Window Handle: B5BF9EAC61D9E67FA30CE63166CE0D92
+2023-12-11 03:13:18ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - shopMens loaded!
+2023-12-11 03:20:39ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 03:20:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 03:20:45ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:92) - https://www.nba.com/warriors opened!
+2023-12-11 03:20:45ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - landing loaded!
+2023-12-11 03:23:35ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 03:23:38ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 03:23:39ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:92) - https://www.nba.com/warriors opened!
+2023-12-11 03:23:39ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - landing loaded!
+2023-12-11 03:24:42ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='x']"}
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e7c27d247b54df3a4b44da1d98f43614, findElement {using=xpath, value=//div[text()='x']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\jeetu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60734}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60734/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e7c27d247b54df3a4b44da1d98f43614
+2023-12-11 03:24:54ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - news loaded!
+2023-12-11 03:26:17ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 03:26:19ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 03:26:20ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:92) - https://www.nba.com/warriors opened!
+2023-12-11 03:26:20ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - landing loaded!
+2023-12-11 03:26:35ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - news loaded!
+2023-12-11 03:29:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-11 03:29:43ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-11 03:30:37ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:92) - https://www.nba.com/warriors opened!
+2023-12-11 03:30:37ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - landing loaded!
+2023-12-12 13:20:21ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-12 13:20:24ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-12 13:20:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:92) - https://www.nba.com/warriors opened!
+2023-12-12 13:20:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - landing loaded!
+2023-12-12 13:20:58ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:98) - news loaded!
+2023-12-12 13:24:20ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-12 13:24:23ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-12 13:24:25ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:92) - https://www.nba.com/warriors opened!
+2023-12-12 13:24:25ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:99) - landing loaded!
+2023-12-12 13:24:33ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:75) - Error Message: stale element reference: stale element not found
+  (Session info: chrome=120.0.6099.71)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c0db9d8caae033c2d134afb83766a5bb, clickElement {id=B67DD32EEEAACDB7AF8A0E445641D400_element_4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.71, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\jeetu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64070}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64070/devtoo..., se:cdpVersion: 120.0.6099.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c0db9d8caae033c2d134afb83766a5bb)] -> xpath: //div[text()='x']]
+Session ID: c0db9d8caae033c2d134afb83766a5bb
+2023-12-12 13:24:50ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:99) - news loaded!
+2023-12-12 13:25:46ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:99) - news loaded!
+2023-12-12 13:25:46ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:78) - Total number of video feed: 23
+2023-12-12 13:25:47ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:92) - Total number of video feed for more than 3 days: 0
