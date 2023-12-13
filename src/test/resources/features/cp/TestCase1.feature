@@ -21,4 +21,5 @@ Feature: Test
     Then I verify Lbl_Men element is displayed
     And I pull out all products from the selected page
     Then I create a text file and add product details to it
+    And I close the browser
 

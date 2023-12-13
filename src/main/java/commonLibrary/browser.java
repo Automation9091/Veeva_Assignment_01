@@ -33,7 +33,7 @@ public class browser {
 
     public void openApp(String url){
         driver.get(url);
-        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(90000));
+        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(90));
 
     }
 

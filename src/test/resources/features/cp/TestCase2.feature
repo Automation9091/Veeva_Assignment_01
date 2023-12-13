@@ -15,3 +15,4 @@ Feature: Second Scenario
     And I am on news page
     Then I verify Lbl_News element is displayed
     And I pull out all videos from Videos section
+    And I close the browser
