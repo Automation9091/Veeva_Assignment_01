@@ -2391,3 +2391,31 @@ Session ID: c0db9d8caae033c2d134afb83766a5bb
 2023-12-13 07:57:15ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - landing loaded!
 2023-12-13 07:57:46ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:49) - Child Window Handle: BEF4F0286F461D27A8B5CD03A0E0440F
 2023-12-13 07:57:46ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - shopMens loaded!
+2023-12-13 08:34:28ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:37) - ***** Executing browserSetup method *****
+2023-12-13 08:34:30ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:39) - Browser launched
+2023-12-13 08:34:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - https://www.nba.com/warriors opened!
+2023-12-13 08:34:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - landing loaded!
+2023-12-13 08:35:01ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:49) - Child Window Handle: 97783FCE9EE7309911855E3E0D93CE8D
+2023-12-13 08:35:01ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - shopMens loaded!
+2023-12-13 08:37:27ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:37) - ***** Executing browserSetup method *****
+2023-12-13 08:37:29ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:39) - Browser launched
+2023-12-13 08:37:37ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - https://www.nba.com/warriors opened!
+2023-12-13 08:37:37ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - landing loaded!
+2023-12-13 08:38:04ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:49) - Child Window Handle: 2F5F8992CC108C50B64DA13E50A96F55
+2023-12-13 08:38:04ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - shopMens loaded!
+2023-12-13 08:39:45ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:37) - ***** Executing browserSetup method *****
+2023-12-13 08:39:47ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:39) - Browser launched
+2023-12-13 08:39:52ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - https://www.nba.com/warriors opened!
+2023-12-13 08:39:52ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - landing loaded!
+2023-12-13 08:40:09ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - news loaded!
+2023-12-13 08:40:09ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - news loaded!
+2023-12-13 08:40:09ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:75) - Total number of video feed: 23
+2023-12-13 08:40:09ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:89) - Total number of video feed for more than 3 days: 0
+2023-12-13 08:40:10ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:37) - ***** Executing browserSetup method *****
+2023-12-13 08:40:11ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:39) - Browser launched
+2023-12-13 08:40:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - https://www.nba.com/sixers/ opened!
+2023-12-13 08:40:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - landing loaded!
+2023-12-13 08:40:32ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:37) - ***** Executing browserSetup method *****
+2023-12-13 08:40:34ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:39) - Browser launched
+2023-12-13 08:40:51ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - https://www.nba.com/bulls/ opened!
+2023-12-13 08:40:51ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - landing loaded!
