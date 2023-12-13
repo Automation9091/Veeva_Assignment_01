@@ -1,12 +1,10 @@
 package stepDefinitions;
 
-import applications.cp.shopMensPage;
+import applications.cp.pages.shopMensPage;
 import commonLibrary.browser;
 import commonLibrary.common;
 import io.cucumber.java.en.Then;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import java.io.FileNotFoundException;
@@ -14,7 +12,6 @@ import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
 
 public class cpSteps extends browser {

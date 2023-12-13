@@ -2375,3 +2375,19 @@ Session ID: c0db9d8caae033c2d134afb83766a5bb
 2023-12-12 13:25:46ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:99) - news loaded!
 2023-12-12 13:25:46ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:78) - Total number of video feed: 23
 2023-12-12 13:25:47ZINFO  [main] stepDefinitions.cpSteps (cpSteps.java:92) - Total number of video feed for more than 3 days: 0
+2023-12-13 07:35:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:46) - ***** Executing browserSetup method *****
+2023-12-13 07:35:45ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:48) - Browser launched
+2023-12-13 07:35:59ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:92) - https://www.nba.com/warriors opened!
+2023-12-13 07:36:00ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:99) - landing loaded!
+2023-12-13 07:43:58ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:37) - ***** Executing browserSetup method *****
+2023-12-13 07:44:01ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:39) - Browser launched
+2023-12-13 07:44:15ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - https://www.nba.com/warriors opened!
+2023-12-13 07:44:15ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - landing loaded!
+2023-12-13 07:44:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:49) - Child Window Handle: 031AC1B0E28C00C7C654A90C3C11E1AD
+2023-12-13 07:44:41ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - shopMens loaded!
+2023-12-13 07:57:04ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:37) - ***** Executing browserSetup method *****
+2023-12-13 07:57:10ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:39) - Browser launched
+2023-12-13 07:57:14ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:83) - https://www.nba.com/warriors opened!
+2023-12-13 07:57:15ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - landing loaded!
+2023-12-13 07:57:46ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:49) - Child Window Handle: BEF4F0286F461D27A8B5CD03A0E0440F
+2023-12-13 07:57:46ZINFO  [main] stepDefinitions.commonSteps (commonSteps.java:90) - shopMens loaded!

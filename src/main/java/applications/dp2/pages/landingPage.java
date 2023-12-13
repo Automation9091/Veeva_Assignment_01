@@ -1,4 +1,4 @@
-package applications.dp1;
+package applications.dp2.pages;
 
 import commonLibrary.basePage;
 import commonLibrary.browser;

@@ -6,7 +6,7 @@ Feature: Test
   #○	Attach the text file to the report
 
   Scenario: Test Scenario
-    Given I launch the chrome browser
+    Given I launch the Edge browser
     When I open the CP application in prod environment
     And I am on landing page
     And I click Btn_AcceptCookies element if exists

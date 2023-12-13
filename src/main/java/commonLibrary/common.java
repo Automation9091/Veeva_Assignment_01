@@ -1,9 +1,9 @@
 package commonLibrary;
 
-import applications.cp.homePage;
-import applications.cp.landingPage;
-import applications.cp.newsPage;
-import applications.cp.shopMensPage;
+import applications.cp.pages.homePage;
+import applications.cp.pages.landingPage;
+import applications.cp.pages.newsPage;
+import applications.cp.pages.shopMensPage;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
@@ -92,14 +92,14 @@ public class common extends browser{
             case "dp1":
                 switch (pageName.toLowerCase()) {
                     case "landing":
-                        page = new applications.dp1.landingPage(browser.driver);
+                        page = new applications.dp1.pages.landingPage(browser.driver);
                         break;
                 }
                 break;
             case "dp2":
                 switch (pageName.toLowerCase()) {
                     case "landing":
-                        page = new applications.dp2.landingPage(browser.driver);
+                        page = new applications.dp2.pages.landingPage(browser.driver);
                         break;
                 }
                 break;

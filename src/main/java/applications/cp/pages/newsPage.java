@@ -1,4 +1,4 @@
-package applications.cp;
+package applications.cp.pages;
 
 import commonLibrary.basePage;
 import commonLibrary.browser;

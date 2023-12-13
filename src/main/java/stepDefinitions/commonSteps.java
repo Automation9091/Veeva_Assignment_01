@@ -1,9 +1,6 @@
 package stepDefinitions;
 
-import applications.cp.homePage;
-import applications.cp.landingPage;
-import applications.cp.newsPage;
-import applications.cp.shopMensPage;
+import applications.cp.pages.landingPage;
 import com.esotericsoftware.yamlbeans.YamlException;
 import commonLibrary.basePage;
 import commonLibrary.browser;
@@ -13,18 +10,12 @@ import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.FluentWait;
-import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.FileNotFoundException;
-import java.lang.reflect.Field;
 import java.time.Duration;
 
 public class commonSteps {
